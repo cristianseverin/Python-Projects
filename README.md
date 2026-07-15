@@ -4,8 +4,8 @@
 |-----------------------------------------------|----------------------------|
 | Car Sales Report | [Car Sales Report.txt](https://github.com/user-attachments/files/30028337/Car.Sales.Report.txt)|
 | Months and Temperatures | [Months and Temperatures.txt](https://github.com/user-attachments/files/30028414/Months.and.Temperatures.txt)|
-| Car Sales Report | |
-
+| Rock, Paper, Scissors Game | [Rock, Paper, Scissors Game.txt](https://github.com/user-attachments/files/30028574/Rock.Paper.Scissors.Game.txt)|
+| Search Comparisons | [Search Comparisons.txt](https://github.com/user-attachments/files/30028606/Search.Comparisons.txt)|
 
 ## Flowchart Diagrams
 
@@ -16,3 +16,11 @@
 ### Months and Temperatures
 
 <img width="1084" height="1091" alt="A9b Cristian Severin FLOWCHART" src="https://github.com/user-attachments/assets/535b85f1-49b8-462a-bd25-0472cb4cb4b7" />
+
+### Search Comparisons
+
+<img width="1866" height="1511" alt="A9a Cristian Severin FLOWCHART" src="https://github.com/user-attachments/assets/bf862ba0-ed4d-4624-ba05-219d021892f2" />
+
+
+
+
