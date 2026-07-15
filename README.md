@@ -6,8 +6,10 @@
 | Months and Temperatures | [Months and Temperatures.txt](https://github.com/user-attachments/files/30028414/Months.and.Temperatures.txt)|
 | Rock, Paper, Scissors Game | [Rock, Paper, Scissors Game.txt](https://github.com/user-attachments/files/30028574/Rock.Paper.Scissors.Game.txt)|
 | Search Comparisons | [Search Comparisons.txt](https://github.com/user-attachments/files/30028606/Search.Comparisons.txt)|
+| Parallel arrays| [Parallel Arrays.txt](https://github.com/user-attachments/files/30028653/Parallel.Arrays.txt)|
 
 ## Flowchart Diagrams
+
 
 ### Car Sales Report Diagram
 
@@ -21,6 +23,7 @@
 
 <img width="1866" height="1511" alt="A9a Cristian Severin FLOWCHART" src="https://github.com/user-attachments/assets/bf862ba0-ed4d-4624-ba05-219d021892f2" />
 
+### Parallel arrays
 
-
+<img width="816" height="1151" alt="A8b Cristian Severin FLOWCHART" src="https://github.com/user-attachments/assets/c55e5ce8-8b6f-4f0a-bb36-1057c014cc29" />
 
